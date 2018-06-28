@@ -178,3 +178,4 @@ This repository contains my solutions to some CTF challenges and a list of inter
 - [Play With Capture The Flag: [Write-up] Google CTF 2017 - pwn474 primary](https://david942j.blogspot.it/2017/06/write-up-google-ctf-2017-pwn474-primary.html)
 - [RingZer0Team - Shellcoding](https://github.com/VulnHub/ctf-writeups/blob/master/2015/ringzer0/shellcoding.md)
 - [Tokyo Westerns MMA 2016 - Diary](http://uaf.io/exploitation/2016/09/06/TokyoWesterns-MMA-Diary.html) • seccomp
+- [MWR Security chain of 11 bugs](https://labs.mwrinfosecurity.com/assets/BlogFiles/G.-Geshev-and-Rob-Miller-Chainspotting.pdf)
