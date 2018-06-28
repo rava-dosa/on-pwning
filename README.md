@@ -154,7 +154,7 @@ This repository contains my solutions to some CTF challenges and a list of inter
 - [Pwned By The Owner: What Happens When You Steal A Hacker's Computer](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc) by Zoz • DEF&nbsp;CON&nbsp;18
 - [return-to-csu: A New Method to Bypass 64-bit Linux ASLR](https://www.blackhat.com/docs/asia-18/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf) • Black Hat Asia&nbsp;2018
 - [Unexpected Stories From a Hacker Inside the Government](https://www.youtube.com/watch?v=TSR-b9yuTbM) by Mudge • DEF&nbsp;CON&nbsp;21
-
+- [MWR Security chain of 11 bugs Samsung android](https://labs.mwrinfosecurity.com/assets/BlogFiles/G.-Geshev-and-Rob-Miller-Chainspotting.pdf)
 ## Write-ups
 
 - [0ctf Quals 2017 - BabyHeap2017](http://uaf.io/exploitation/2017/03/19/0ctf-Quals-2017-BabyHeap2017.html) • fastbins
@@ -178,4 +178,3 @@ This repository contains my solutions to some CTF challenges and a list of inter
 - [Play With Capture The Flag: [Write-up] Google CTF 2017 - pwn474 primary](https://david942j.blogspot.it/2017/06/write-up-google-ctf-2017-pwn474-primary.html)
 - [RingZer0Team - Shellcoding](https://github.com/VulnHub/ctf-writeups/blob/master/2015/ringzer0/shellcoding.md)
 - [Tokyo Westerns MMA 2016 - Diary](http://uaf.io/exploitation/2016/09/06/TokyoWesterns-MMA-Diary.html) • seccomp
-- [MWR Security chain of 11 bugs](https://labs.mwrinfosecurity.com/assets/BlogFiles/G.-Geshev-and-Rob-Miller-Chainspotting.pdf)
